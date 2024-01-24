@@ -1,1 +1,1 @@
-The_first_kcl_program = 'Hello World!'
+The_first_kcl_program = 'version 1.1.0 (latest)'
